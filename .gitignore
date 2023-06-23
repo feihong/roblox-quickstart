@@ -1,0 +1,7 @@
+# Project place file
+/roblox-quickstart.rbxlx
+/roblox-quickstart.rbxl
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
